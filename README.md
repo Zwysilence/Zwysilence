@@ -44,9 +44,9 @@ Here are some ideas to get you started:
   * Distributed Computing & Middleware 
   * Mobile Device Development
   * Full-Stack Web Development
-  * Cloud Computing with data science topic
-  * Solving Data structure and algorithm questions
-  * or anything funny!
+  * Cloud Computing with Data Science Topic
+  * Solving Data Structure and Algorithm Questions
+  * or Anything Funny!
 - :mailbox: You can reach me with the links below
 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Si1en4)
