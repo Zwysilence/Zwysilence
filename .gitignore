@@ -1,0 +1,4 @@
+# ignore the MacOs FS
+.DS_Store
+.vscode/
+.idea/
