@@ -35,9 +35,15 @@ Here are some ideas to get you started:
 ### Hi, I'm Silence Zhang 🎉:
 :raising_hand: I love to explore and learn about any new things. Following my passion for programming, I would like to become a software engineer and contributor in some open source communities after I graduate.
 
+<<<<<<< HEAD
 - 🎓Current Computer Science(High Performance computing with Data Science) postgraduate in the University of Edinburgh, School of Informatics, EPCC(Edinburgh Parallel Computing Centre), UK.
 - 🎓Get my undergraduate degree in Computer Science and Technology from HUST(Huazhong University of Science and Technology), China.
 - :test_tube: Doing my research on **Parallel and Distributed Algorithm Design and other High-Performance Computing Areas** and facing the choice **"make the industry transition or continue to get a PhD. degree"**. (Personally, I'm partial to the latter.） 
+=======
+- 🎓 Get my postgraduate degree in Computer Science(High Performance Computing with Data Science) with Merit Award in the University of Edinburgh, School of Informatics, EPCC(Edinburgh Parallel Computing Centre), UK.
+- 🎓 Get my undergraduate degree in Computer Science and Technology from HUST(Huazhong University of Science and Technology), China.
+- :test_tube: Doing my research on **Parallel and Distributed Algorithm Design and other High-Performance Computing Areas** and facing the choice **"make the industry transition or continue to get a PhD. degree"**. (Personally, I'm partial to the latter.) 
+>>>>>>> d4c7437 (update education status.)
 - 🪐 Looking forward to global environmental improvement, Peace and Love, Quantum Computer, Mars exploration(& the rest of space), and next generation energy.
 - :speech_balloon: Talk with me about 
   * High-Performance Computing
@@ -54,7 +60,7 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silencezhang/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Silence_zwy)
 [![zwysilence.xyz](https://img.shields.io/badge/-ZWYSILENCE.XYZ-000000?style=for-the-badge&logo=react&logoColor=white)](https://zwysilence.xyz/)
-[![Wechat](https://img.shields.io/badge/-WeChat-7BB32E?style=for-the-badge&logo=wechat&logoColor=white)](./QR.png)
+[![Wechat](https://img.shields.io/badge/-WeChat-7BB32E?style=for-the-badge&logo=wechat&logoColor=white)](./wechatQR.png)
 
 ### Languages I use
 
