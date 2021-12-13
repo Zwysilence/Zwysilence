@@ -13,10 +13,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
@@ -35,15 +35,9 @@ Here are some ideas to get you started:
 ### Hi, I'm Silence Zhang 🎉:
 :raising_hand: I love to explore and learn about any new things. Following my passion for programming, I would like to become a software engineer and contributor in some open source communities after I graduate.
 
-<<<<<<< HEAD
-- 🎓Current Computer Science(High Performance computing with Data Science) postgraduate in the University of Edinburgh, School of Informatics, EPCC(Edinburgh Parallel Computing Centre), UK.
-- 🎓Get my undergraduate degree in Computer Science and Technology from HUST(Huazhong University of Science and Technology), China.
-- :test_tube: Doing my research on **Parallel and Distributed Algorithm Design and other High-Performance Computing Areas** and facing the choice **"make the industry transition or continue to get a PhD. degree"**. (Personally, I'm partial to the latter.） 
-=======
 - 🎓 Get my postgraduate degree in Computer Science(High Performance Computing with Data Science) with Merit Award in the University of Edinburgh, School of Informatics, EPCC(Edinburgh Parallel Computing Centre), UK.
 - 🎓 Get my undergraduate degree in Computer Science and Technology from HUST(Huazhong University of Science and Technology), China.
 - :test_tube: Doing my research on **Parallel and Distributed Algorithm Design and other High-Performance Computing Areas** and facing the choice **"make the industry transition or continue to get a PhD. degree"**. (Personally, I'm partial to the latter.) 
->>>>>>> d4c7437 (update education status.)
 - 🪐 Looking forward to global environmental improvement, Peace and Love, Quantum Computer, Mars exploration(& the rest of space), and next generation energy.
 - :speech_balloon: Talk with me about 
   * High-Performance Computing
@@ -55,7 +49,6 @@ Here are some ideas to get you started:
   * or anything funny!
 - :mailbox: You can reach me with the links below
 
-[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Si1en4)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Zhangwuyan01@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silencezhang/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Silence_zwy)
