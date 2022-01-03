@@ -88,10 +88,10 @@ Here are some ideas to get you started:
 ![Nintendo](https://img.shields.io/badge/Silence-Nintendo-444444?style=social&logo=Nintendo-Switch&logoColor=E60012)
 ![Ubisoft](https://img.shields.io/badge/ZzSilenzZ-Ubisoft-444444?style=social&logo=ubisoft&logoColor=2088FF)
 ![Epic](https://img.shields.io/badge/一胜一负_原地踏步-Epic-444444?style=social&logo=epic-games&logoColor=black)
-[![Steam](https://img.shields.io/badge/人生有梦_各自精彩-Steam-444444?style=social&logo=steam&logoColor=025E8C)](https://steamcommunity.com/profiles/76561198178013125/)
+![Steam](https://img.shields.io/badge/人生有梦_各自精彩-Steam-444444?style=social&logo=steam&logoColor=025E8C)
 ![Cryptocurrency](https://img.shields.io/badge/-Cryptocurrency-444444?style=social&logo=bitcoin&logoColor=F7931A)
 
-[![Bilibili](https://img.shields.io/badge/ZzsilencezZ-Bilibili-444444?style=social&logo=bilibili&logoColor=00A1D6)](https://space.bilibili.com/233636056)
+![Bilibili](https://img.shields.io/badge/ZzsilencezZ-Bilibili-444444?style=social&logo=bilibili&logoColor=00A1D6)
 ![Movies](https://img.shields.io/badge/Weekly-Movies-444444?style=social&logo=the-movie-database&logoColor=01D277)
 ![HBO_series](https://img.shields.io/badge/HBO-TV_series-444444?style=social&logo=hbo&logoColor=00A4DE)
 ![Netflix_series](https://img.shields.io/badge/Netflix-TV_series-444444?style=social&logo=netflix&logoColor=E50914)
