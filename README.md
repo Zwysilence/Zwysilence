@@ -83,6 +83,13 @@ Here are some ideas to get you started:
 ![Qt](https://img.shields.io/badge/-Qt-000000?style=flat&logo=qt&logoColor=41CD52&colorA=444444)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white&colorA=444444)
 
+![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis&logoColor=DC382D&colorA=444444)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=2496ED&colorA=444444)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pyTorch&logoColor=EE4C2C&colorA=444444)
+![Hadoop](https://img.shields.io/badge/-Hadoop-000000?style=flat&logo=apache-hadoop&logoColor=FFD000&colorA=444444)
+![Nginx](https://img.shields.io/badge/-Nginx-000000?style=flat&logo=nginx&logoColor=009639&colorA=444444)
+
+
 ### Some of my favorite things
 
 ![Nintendo](https://img.shields.io/badge/Silence-Nintendo-444444?style=social&logo=Nintendo-Switch&logoColor=E60012)
