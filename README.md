@@ -8,6 +8,7 @@
   <a href="https://github.com/Zwysilence/"><img src="https://img.shields.io/github/followers/Zwysilence?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
   <a href="https://github.com/Zwysilence/"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
 </p>
+
 <!--
 **Zwysilence/Zwysilence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,9 +27,10 @@ Here are some ideas to get you started:
 <!---->
 
 ### 👨‍💻 Open source work stats
-<div align=center><img align=""  height="105px" src="https://github-readme-stats.vercel.app/api?username=Zwysilence&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=ayu-mirage&count_private=true" />
- <img align="" height="105px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zwysilence&hide_title=true&hide_border=true&theme=ayu-mirage&layout=compact" /></div>
- </div>
+<div align=center>
+  <img align="" height="105px" src="https://github-readme-stats.vercel.app/api?username=Zwysilence&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=ayu-mirage&count_private=true" />
+  <img align="" height="105px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zwysilence&hide_title=true&hide_border=true&theme=ayu-mirage&layout=compact" />
+</div>
 
 <img align='right' src='https://octodex.github.com/images/catstello.png' width='200px'>
 
@@ -63,8 +65,6 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&colorA=444444&logoColor=F29400)
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go&colorA=444444)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&colorA=444444)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&colorA=444444)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3&logoColor=9933CC&colorA=444444)
 
 ### Some of the technologies I have worked with
 
