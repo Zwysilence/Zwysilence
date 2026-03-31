@@ -1,6 +1,6 @@
 <h2 align="right">👋 Hey man</h2>
 <blockquote>
-  <h3 align="right">Do not go gentle into that good night<br>Old age should burn and rave at close of day<br>Rage, rage against the dying of the light</h3>
+  <h3 align="right"><em>Do not go gentle into that good night</em><br><em>Old age should burn and rave at close of day</em><br><em>Rage, rage against the dying of the light</em></h3>
 </blockquote>
 
 <p>
